@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Course.cpp
+Course.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Course.h
+Student.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Student.h
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Course.h
+vector
+-
+string
+-
+iostream
+-
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Registrar.cpp
+Course.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Course.h
+Student.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Student.h
+Registrar.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Registrar.h
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Registrar.h
+vector
+-
+string
+-
+iostream
+-
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Student.cpp
+Course.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Course.h
+Student.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Student.h
+Registrar.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Registrar.h
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Student.h
+vector
+-
+string
+-
+iostream
+-
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/main.cpp
+iostream
+-
+Registrar.h
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec07_sepComp/Registrar.h
+

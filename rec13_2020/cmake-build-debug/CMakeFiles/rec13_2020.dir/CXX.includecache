@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Sandisk Extreme SSD Media/CS2124 Projects/rec13_2020/rec13_2020.cpp
+iostream
+-
+fstream
+-
+vector
+-
+list
+-
+algorithm
+-
+string
+-
+set
+-
+map
+-
+

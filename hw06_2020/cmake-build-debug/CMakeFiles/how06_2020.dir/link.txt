@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/how06_2020.dir/hw06_main.cpp.o CMakeFiles/how06_2020.dir/Noble.cpp.o CMakeFiles/how06_2020.dir/Warrior.cpp.o  -o how06_2020 
